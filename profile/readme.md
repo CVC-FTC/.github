@@ -1,1 +1,1 @@
-Hi, this is the profile page for the CVC FTC team
+Hi, this is the profile page for the CVC FTC team organisation
