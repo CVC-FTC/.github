@@ -1,4 +1,4 @@
-# Welcome to the CVC-FTC Robotics Club GitHub orginisation
+# Welcome to the CVC-FTC Robotics Club GitHub organisation
 
 ---
 ---
