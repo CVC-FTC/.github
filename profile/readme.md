@@ -9,4 +9,4 @@
 ---
 ---
 
-***For Members Only**: [switch to member view](https://github.com/CVC-FTC?view_as=member)*
+*[Member view](https://github.com/CVC-FTC?view_as=member)*
